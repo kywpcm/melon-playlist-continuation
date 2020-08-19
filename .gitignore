@@ -3,3 +3,6 @@ arena_data
 *.swp
 .DS_Store
 __pycache__
+.idea
+venv
+.ipynb_checkpoints
